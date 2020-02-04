@@ -1,0 +1,79 @@
+body {
+    margin: 0;
+    width: 100%;
+    background-color: black;
+}
+
+.container {
+    width: 500px;
+    margin: auto;
+    background-color: white;
+}
+
+.top {
+    width: 500px;
+    height: 45px;
+    margin: auto;
+}
+
+.top-left {
+    display: inline-block;
+    width: 150px;
+    float: left;
+    margin-top: 25px;
+    margin-left: 5px;
+}
+
+.top-left p {
+    display: inline-block;
+    height: 45px;
+    width: 70px;
+}
+
+.top-right {
+    margin-top: 45px;
+    display: inline-block;
+    float: right;
+    margin-right: 5px;
+}
+
+.pic {
+    margin: auto;
+    width: 100%;
+    display: inline-block;
+}
+
+.pic img {
+    display: inline-block;
+    margin: 0;
+}
+
+.bot-icons {
+    width: 500px;
+    margin: auto;
+}
+
+.bot-left {
+    display: inline-block;
+    float: left;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.bot-right {
+    display: inline-block;
+    float: right;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+.likes {
+    display: inline-block;
+    margin: auto;
+    width: 500px;
+}
+
+.description {
+    display: inline-block;
+    margin: auto;
+    width: 500px;
+}
